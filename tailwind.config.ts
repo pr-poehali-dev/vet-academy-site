@@ -18,7 +18,18 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				'playfair': ['Playfair Display', 'serif'],
+				'source': ['Source Sans Pro', 'sans-serif'],
+			},
 			colors: {
+				forest: {
+					green: '#2D5016',
+				},
+				saddle: {
+					brown: '#8B4513',
+				},
+				cream: '#F5E6D3',
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
