@@ -10,9 +10,8 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-              <Icon name="Heart" className="h-8 w-8 text-forest-green mr-2" />
-              <span className="font-playfair font-bold text-xl text-forest-green">
-                Академия ответственного коневладельца
+              <span className="font-playfair font-bold text-xl text-forest-green tracking-wide">
+                АКАДЕМИЯ ОТВЕТСТВЕННОГО КОНЕВЛАДЕЛЬЦА
               </span>
             </div>
             <div className="hidden md:flex space-x-8">
