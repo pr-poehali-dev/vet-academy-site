@@ -12,7 +12,7 @@ const Index = () => {
             <div className="flex items-center">
               <Icon name="Heart" className="h-8 w-8 text-forest-green mr-2" />
               <span className="font-playfair font-bold text-xl text-forest-green">
-                Ветеринарная Академия
+                Академия ответственного коневладельца
               </span>
             </div>
             <div className="hidden md:flex space-x-8">
@@ -238,7 +238,7 @@ const Index = () => {
               <div className="flex items-center mb-4">
                 <Icon name="Heart" className="h-8 w-8 text-white mr-2" />
                 <span className="font-playfair font-bold text-xl">
-                  Ветеринарная Академия
+                  Академия ответственного коневладельца
                 </span>
               </div>
               <p className="font-source text-gray-200">
